@@ -1,0 +1,82 @@
+#First{
+	background: rgb(34, 34, 34);
+}
+
+#First span{
+	color: rgb(145, 145, 145);
+	font-size: 13px;
+}
+
+#First a{
+	font-size: 13px;
+	/*margin-top: 10px;*/
+	color:rgb(145, 145, 145) ! important;
+	text-decoration: none;
+}
+
+#First a:hover{
+	transition: 1s;
+	color:blue !important;
+}
+
+#First .line{
+	border-left: 1px solid rgb(145, 145, 145);
+	border-right: 1px solid rgb(145, 145, 145);
+	min-height: 34px;
+	padding-top: 4px; 
+}
+
+
+
+#Second{
+	height: 300px;
+	padding-top: 30px;
+
+
+}
+
+#Second li{
+	display: inline-block;
+	margin: 7px;	
+}
+
+#Second li a{
+	text-decoration: none;
+	color:black ! important;
+	font-weight: 500;
+
+}
+
+#Second li a:hover{
+	transition: 1s;
+	color:blue !important;                        
+}
+
+#Second i{
+	cursor: pointer;
+	size: 50px;
+	text-align: right;
+	padding-top: 13px;
+	font-size: 18px;
+	text-align: right;
+	left: 15px;
+
+
+}
+
+#Second i:hover{
+	transition: 1s;
+	color:blue !important;
+}
+
+
+.sh{
+	border: 1px solid red;
+	height: 130px;
+}
+
+.sh i{
+	size: 50px;
+	font-size: 100px;
+}
+
